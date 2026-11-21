@@ -1,0 +1,5 @@
+name: ShulkerHover
+version: 1.0.0
+main: enthusia.chat.ShulkerHover
+api-version: '1.21'
+depend: [InteractiveChat]
